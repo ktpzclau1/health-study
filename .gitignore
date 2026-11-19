@@ -1,0 +1,22 @@
+# Virtuell Python-miljö
+.venv/
+venv/
+
+# Python-cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Miljöfiler
+.env
+.env.*
+!.env.example
+
+# Systemfiler
+.DS_Store
+Thumbs.db
